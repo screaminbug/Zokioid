@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zokioid</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Ja sam...</string>
+    <string name="previous">Natrag</string>
+
+    <string name="hello_first_fragment">Unesi datum rođenja</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %d %d %d</string>
+    <string name="randomButton">Osjećam se sretno</string>
+</resources>
